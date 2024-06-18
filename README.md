@@ -28,7 +28,7 @@ This project is a FastAPI-based text summarization service that supports multipl
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone github.com/AmirTahaMim/SumSimple
     cd <repository-directory>
     ```
 
