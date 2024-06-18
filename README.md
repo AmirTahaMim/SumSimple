@@ -1,5 +1,3 @@
-Sure, here's the `README.md` content in a plain text block:
-
 # Text Summarization API
 
 This project is a FastAPI-based text summarization service that supports multiple traditional summarization algorithms from the `sumy` library. It is not based on large language models (LLMs) but uses classical approaches for summarization.
