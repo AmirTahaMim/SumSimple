@@ -1,8 +1,8 @@
 # Text Summarization API
 
-![b31c5c38-64ec-43bf-88d1-a8425ff1fe4a](https://github.com/user-attachments/assets/09f5321b-f67e-4752-b2f5-1c64bde332b9)
-
 This project is a FastAPI-based text summarization service that supports multiple traditional summarization algorithms from the `sumy` library. It is not based on large language models (LLMs) but uses classical approaches for summarization.
+
+![b31c5c38-64ec-43bf-88d1-a8425ff1fe4a](https://github.com/user-attachments/assets/09f5321b-f67e-4752-b2f5-1c64bde332b9)
 
 ## Features
 
