@@ -101,10 +101,10 @@ curl -X POST "http://127.0.0.1:8000/summarize/" -H "Content-Type: application/js
 ## Text Cleaning
 
 The input text is cleaned by:
-- Removing lines with '*' or fewer than 50 words.
-- Removing markdown and HTML links.
-- Removing URLs.
-- Removing extra whitespace and unwanted characters.
+- Removing lines with '*' or fewer than 50 words
+- Removing markdown and HTML links
+- Removing URLs
+- Removing extra whitespace and unwanted characters
 
 ## Contributing
 
